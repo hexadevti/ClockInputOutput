@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Luciano Faria\\Desktop\\Z80\\ClockInputOutput\\build\\sketch\\clockOutput.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
